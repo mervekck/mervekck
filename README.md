@@ -21,6 +21,8 @@
 
 - 📫 How to reach me mervekoocak@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervekck&show_icons=true&locale=en&layout=compact" alt="mervekck" /></p>
+
 ![snake gif](https://github.com/mervekck/mervekck/blob/output/github-contribution-grid-snake.gif)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekck&show_icons=true&locale=en" alt="mervekck" /></p>
