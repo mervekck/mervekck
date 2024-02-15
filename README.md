@@ -21,7 +21,7 @@
 
 - 📫 How to reach me mervekoocak@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mervekck&label=Profile%20views&color=0e75b6&style=flat" alt="mervekck" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervekck&show_icons=true&locale=en&layout=compact" alt="mervekck" /></p>
 ![snake gif](https://github.com/mervekck/mervekck/blob/output/github-contribution-grid-snake.gif)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mervekck&show_icons=true&locale=en" alt="mervekck" /></p>
