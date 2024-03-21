@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve Koçak</h1>
-<h5> · I graduated of Electronic Engineering from Gebze Technic University.</h5>
+<h5> · I graduated from Electronic Engineering at Gebze Technical University.</h5>
 <h5> · I attended the Data Analyst Training in the last months of 2022.</h5>
-<h5> · I worked as an assistant operational efficiency and analysis specialist. During this process, I created data analyzes with SQL coding.</h5>
+<h5> · I worked as an assistant operational efficiency and analysis specialist. In this process, I performed operational efficiency analyses using SQL codes.</h5>
 
 # <h3 align="center"> 🔭 I am currently a BilgeAdam Boost Full Stack Software Developer Training Program Participant.</h3>
 <h5 align="center">C# · Microsoft SQL Server · .NET Framework · Object-Oriented Programming (OOP) · Entity Framework · SOLID Design Principles · ADO.NET ·  HTML5 · CSS · JavaScript · .NET Core ·  ASP.NET · ASP.NET MVC · ASP.NET Web API</h5>
